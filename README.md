@@ -60,6 +60,7 @@ The other 22 distances I calculated by hand match the floor plan to the decimete
 ## What this study doesn't prove
 
 It's a single supermarket, so I can't say they all do the same. The survey was answered by people around me, not by a representative sample. I didn't measure the distance from the entrance to the center aisle; I inferred it from my own calculations. If you can only enter through the left aisle, the routes are 187.4 and 116.2 m and the conclusion doesn't change. And while the most-bought products being far away fits the idea of a sales strategy, there could be other reasons too, like where the cold rooms or the loading area are.
+The 3,432 groups are formed from the 14 products I measured, which are already the 7 most-bought and the 7 least-bought. So the comparison is not against 7 products picked at random from the whole store, but against the extremes of my own survey. Measuring the other 15 products would be a stronger test.
 
 ## Running it
 
