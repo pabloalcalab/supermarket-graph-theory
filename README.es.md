@@ -48,7 +48,7 @@ Estos son los dos grafos de la monografía, con las distancias recalculadas sobr
 
 ## Errores que encontré en la monografía
 
-- Puse que la ruta era un 163 % más larga, y es un 63 %: confundí "1,63 veces" con "163 % más".
+- Escribí que la ruta era un 163% más larga. Es un 63%: confundí “1,63 veces más larga” con “un 163% más larga”. (Con las distancias corregidas que aparecen debajo queda en un 60%.)
 - Calculé la distancia de la entrada a la leche y a la carnicería por el pasillo izquierdo, pero por el central se llega antes (58,9 y 67,3 m en vez de 62,1 y 70,5). Por eso la ruta de los más comprados baja de 184,2 a 181,0 m. La de los menos comprados se queda en 113 m, como en la monografía.
 - La distancia de helados a biofood la copié mal: puse 21,8 m, que es la de helados a sal. La buena es 27,2 m.
 - De yogures a leche puse 20,4 m, pero pasando por los huevos son 18,0 m.
