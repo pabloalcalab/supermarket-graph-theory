@@ -1,0 +1,18 @@
+# Floor-plan measurements, taken with a laser distance meter (original Popplet plan).
+# Rows = horizontal aisles, from 1 (back of the store) to 11 (next to the entrance).
+# Columns = vertical aisles: L (left), C (center), R (right).
+# type: vertical = distance between two consecutive rows (the same in all three columns, with exceptions)
+#       horizontal = width between two columns (the same in every row)
+type,from,to,meters
+vertical,1,2,5.0
+vertical,2,3,3.4
+vertical,3,4,3.7
+vertical,4,5,4.3
+vertical,5,6,10.8
+vertical,6,7,3.6
+vertical,7,8,3.8
+vertical,8,9,3.6
+vertical,9,10,3.6
+vertical,10,11,3.6
+horizontal,L,C,3.2
+horizontal,C,R,11.2

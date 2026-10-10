@@ -1,0 +1,3 @@
+# Aisle segments that do not exist in the store (you cannot walk through).
+column,from,to
+R,5,6

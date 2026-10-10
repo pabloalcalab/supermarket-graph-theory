@@ -1,0 +1,24 @@
+# Position of each product, measured from an aisle crossing.
+# On a horizontal aisle: row number, and meters from column C towards column R.
+# On a vertical aisle: column, the segment between two rows, and meters from the "from" row.
+# meters = 0 means the product sits right at the crossing.
+# The entrance opens onto two aisles. The 14.7 m to aisle C is not on the original Popplet plan:
+# it is inferred from three distances in the Extended Essay (to shampoo, fish counter and yogurt),
+# which only add up this way.
+product,type,row_or_column,from,to,meters
+Butcher counter,horizontal,1,C,R,7.2
+Fruit,horizontal,2,C,R,7.2
+Milk,horizontal,3,C,R,7.2
+Yogurt,horizontal,5,C,R,5.2
+Mayo and ketchup,horizontal,7,C,R,6.4
+Shampoo and shower gel,horizontal,11,C,R,8.3
+Cheese,vertical,R,2,1,4.4
+Eggs,vertical,R,4,3,1.8
+Ice cream,vertical,R,9,8,0.4
+Organic food,vertical,C,6,5,5.4
+Cocoa powder,vertical,L,6,5,7.2
+Wine,vertical,L,8,7,0.7
+Salt,crossing,C,6,6,0.0
+Fish counter,crossing,R,7,7,0.0
+Entrance,entrance,L,11,11,14.7
+Entrance,entrance,C,11,11,14.7

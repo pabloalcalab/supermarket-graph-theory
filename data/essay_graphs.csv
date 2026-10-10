@@ -1,0 +1,28 @@
+# Edges of the two subgraphs in the Extended Essay (Tables 1 and 4) and the distance computed by hand.
+group,from,to,meters_essay
+least,Entrance,Shampoo and shower gel,23.0
+least,Entrance,Wine,26.2
+least,Shampoo and shower gel,Ice cream,10.5
+least,Shampoo and shower gel,Salt,26.5
+least,Shampoo and shower gel,Wine,23.0
+least,Ice cream,Mayo and ketchup,11.8
+least,Ice cream,Organic food,21.8
+least,Mayo and ketchup,Salt,10.0
+least,Salt,Organic food,5.4
+least,Salt,Cocoa powder,10.4
+least,Salt,Wine,9.9
+least,Organic food,Cocoa powder,12.2
+least,Cocoa powder,Wine,13.9
+most,Entrance,Fish counter,40.5
+most,Entrance,Yogurt,48.9
+most,Entrance,Milk,62.1
+most,Entrance,Butcher counter,70.5
+most,Fish counter,Yogurt,30.8
+most,Yogurt,Eggs,12.1
+most,Yogurt,Milk,20.4
+most,Eggs,Milk,5.9
+most,Eggs,Cheese,9.7
+most,Milk,Fruit,11.4
+most,Milk,Cheese,11.8
+most,Fruit,Cheese,8.4
+most,Cheese,Butcher counter,4.6
