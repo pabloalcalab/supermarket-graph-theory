@@ -60,6 +60,7 @@ Las otras 22 distancias que calculé a mano coinciden con el plano al decímetro
 ## Lo que este estudio no demuestra
 
 Es un solo supermercado, así que no puedo decir que todos hagan lo mismo. La encuesta la respondió gente de mi entorno, no una muestra representativa. La distancia de la entrada al pasillo central no la medí, la deduje de mis propios cálculos; si solo se entra por el izquierdo, las rutas miden 187,4 y 116,2 m y la conclusión es la misma. Y que lo más comprado esté lejos encaja con la idea de que es una estrategia comercial, pero también puede tener otras razones, como dónde están las cámaras frigoríficas o la zona de carga.
+Los 3.432 grupos se forman con los 14 productos que medí, que ya son los 7 más comprados y los 7 menos comprados. La comparación no es, por tanto, contra 7 productos al azar de todo el supermercado, sino contra los extremos de mi propia encuesta. Medir los otros 15 productos sería una prueba más exigente.
 
 ## Para ejecutarlo
 
