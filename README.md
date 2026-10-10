@@ -48,7 +48,7 @@ These are the two graphs from the essay, with the distances recomputed on the fl
 
 ## Mistakes I found in the essay
 
-- I wrote that the route was 163% longer. It's 63%: I mixed up "1.63 times as long" with "163% longer".
+- I wrote that the route was 163% longer. It’s 63%: I mixed up “1.63 times as long” with “163% longer”. (With the corrected distances below it comes out as 60%.)
 - I worked out the distance from the entrance to the milk and to the butcher counter through the left aisle, but the center aisle is shorter (58.9 and 67.3 m instead of 62.1 and 70.5). That's why the most-bought route drops from 184.2 to 181.0 m. The least-bought route stays at 113 m, the same as in the essay.
 - I copied the ice cream to organic food distance wrong: I wrote 21.8 m, which is actually ice cream to salt. The right one is 27.2 m.
 - From yogurt to milk I wrote 20.4 m, but going past the eggs it's 18.0 m.
